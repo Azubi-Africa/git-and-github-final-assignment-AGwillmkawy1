@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  - EDA-on-New-York-City-Ticket-violations |  - Exploratory Data Analysis on New York City Ticket violations Dataset|https://github.com/AGwillmkawy1/EDA-on-New-York-City-Ticket-violations.git      |
+| 2 |  - Store-Product-Analysis |  -  Store analysis and be able to negotiate 30% discount |  https://github.com/AGwillmkawy1/Store-Product-Analysis-.git   |
+| 3 |  - Caesar-s cipher_encryption_and_decryption |  - An algorithm to encrypt and decrypt an internal messages using Caesar's cipher | https://github.com/AGwillmkawy1/Caesar-s-cipher_encryption_and_decryption.git |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
